@@ -1,11 +1,5 @@
 body {
-    color: black;
-}
-
-h1 {
-    color: gray;
-}
-
-p {
+    background-color: black;
     color: white;
+    font-family: Rubik;
 }
