@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Rubik;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: grey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: darkgray;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
